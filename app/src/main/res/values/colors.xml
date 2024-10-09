@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightGray">#E6E6E6</color>
+    <color name="darkGray">#4B4B4B</color>
+    <color name="red">#FF4646</color>
+    <color name="yellow">#EDB10A</color>
+    <color name="green">#00C980</color>
+    <color name="status_bar_color">#FD8B51</color>
+    <color name="fab_button_color">#FD8B51</color>
+    <color name="background_color">#ECDFCC</color>
+    <color name="cardview_color">#A5B68D</color>
+
+</resources>
